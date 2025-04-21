@@ -1,1 +1,1 @@
-# NEPSE-stock-Prediction-ML-Project# Stock-Market-Prediction
+# Stock-Market-Prediction
